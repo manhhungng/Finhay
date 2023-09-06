@@ -1,0 +1,10 @@
+{
+	"last_updated": 1544155386394,
+	"translation": {
+		"airpaysdk_error_link_ongoing": "link ongoing th",
+		"airpaysdk_error_not_installed": "not installed th",
+		"airpaysdk_error_unknown": "unknown error th",
+		"airpaysdk_error_user_rejected": "user rejected th",
+		"airpaysdk_error_version_too_low": "version too low th"
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "last_updated": 1544155386,
+  "langs": [
+    {
+      "name": "en",
+      "notification": "0",
+      "display": "English"
+    },
+    {
+      "name": "th",
+      "notification": "3",
+      "display": "ไทย"
+    },
+    {
+      "name": "id",
+      "notification": "5",
+      "display": "Bahasa Indonesia"
+    },
+    {
+      "name": "vi",
+      "notification": "4",
+      "display": "Tiếng Việt"
+    },
+    {
+      "name": "zh-hant",
+      "notification": "1",
+      "display": "繁體中文"
+    },
+    {
+      "name": "zh-hans",
+      "notification": "2",
+      "display": "简体中文"
+    }
+  ]
+}

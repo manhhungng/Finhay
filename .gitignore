@@ -1,0 +1,29 @@
+/.idea/
+/target/
+.DS_Store
+Server.log
+Auto.iml
+iOS_iOS/Server.log
+Android_Android/Videos/
+<<<<<<< HEAD
+iOS_iOS/Videos/Check click button buy gold.mp4
+iOS_iOS/Videos/Check click button continue buy gold.mp4
+iOS_iOS/Videos/Check display button pot of gold display (user have saving COD).mp4
+iOS_iOS/Videos/Check when click button confirm buy gold.mp4
+iOS_iOS/Videos/Check when click button go to pot of gold page.mp4
+iOS_iOS/Videos/Check when click button pot of gold (user has not bought gold).mp4
+iOS_iOS/Videos/Check when make gold buy.mp4
+iOS_iOS/Videos/Check when click button go to pot of gold page & history gold.mp4
+iOS_iOS/Videos/Check when click button pot of gold (user has not bought gold) + (user have saving COD).mp4
+iOS_iOS/Videos/Check amount gold of user have.mp4
+iOS_iOS/Videos/Check user click continue sell gold.mp4
+iOS_iOS/Videos/Check when user click sell gold.mp4
+.DS_Store
+iOS_iOS/.DS_Store
+out/.DS_Store
+out/artifacts/.DS_Store
+out/artifacts/Auto_jar/Auto.jar
+=======
+iOS_iOS/Videos/
+>>>>>>> 078bcc4217d8216eade6594594a8a75b0a7aa681
+.DS_Store
